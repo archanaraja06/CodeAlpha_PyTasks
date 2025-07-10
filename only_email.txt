@@ -1,0 +1,8 @@
+media@example.com
+john.doe@example.com
+hr@example.com
+partners@example.com
+feedback@example.com
+support@example.com
+community@example.com
+events@example.com
